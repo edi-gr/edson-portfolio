@@ -126,6 +126,7 @@ const Projects = (props: Props) => {
           <div className="mt-6 text-neutral-300">
             <Image
               src="/happy.png"
+              alt="happy-funds"
               width={1000}
               height={500}
               className="mx-auto mb-6"
