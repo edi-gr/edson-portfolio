@@ -40,7 +40,7 @@ const Container = (props: Props) => {
             <ul className="flex items-center space-x-2 sm:space-x-5 mr-6 my-4 ">
               <li>
                 <a
-                  href="https://www.instagram.com/opphoder/"
+                  href="https://www.instagram.com/edi_gr24"
                   className="hover:opacity-100 opacity-75 transition ease-in duration-150"
                 >
                   <GrInstagram size={24} />
